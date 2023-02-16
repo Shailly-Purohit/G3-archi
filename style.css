@@ -24,3 +24,82 @@
     color: black;
     font-weight: 100;
 }
+
+.archi-groups {
+    text-align: center;
+}
+
+#archi-groups {
+    background-color: rgb(37, 73, 140);
+    border-radius: 10px;
+    color: azure;
+    font-size: 20px;
+    font-weight: 100px;
+}
+
+.banner {
+    margin-block: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#highlight {
+    color: rgb(37, 73, 140);
+    font-weight: 100px;
+}
+
+.explore {
+    background-color: rgb(37, 73, 140);
+    background-size: 50px;
+    border-radius: 10px;
+    color: azure;
+    font-size: 20px;
+    font-weight: 100px;
+}
+
+.teams {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 200px 200px;
+    gap: 10px;
+    justify-items: stretch;
+}
+
+.features {
+    margin-left: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+#vl {
+    border-left: 10px solid rgba(73, 207, 140, 0.866);
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.ten-year {
+    margin-top: 100px;
+    display: flex;
+    margin-left: 20px;
+    font-size: larger;
+    font-weight: 200;
+}
+
+.feature-details {
+    padding-top: 500px;
+    margin-top: 500px;
+    gap: 60px;
+}
+
+#architects {
+    size: 5px;
+}
+
+#ten-year {
+    font-size: x-large;
+    font-weight: 500px;
+    background-color: cornflowerblue;
+    color: azure;
+    transform: translate(-10%, -100%);
+}
