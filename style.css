@@ -1,0 +1,26 @@
+.body {
+    font-family: 'Crimson Pro', serif;
+    font-size: 48px;
+}
+
+.heading {
+    gap: 700px;
+    display: flex;
+
+}
+
+.nav-title {
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.nav {
+
+    display: flex;
+    text-decoration: black;
+    list-style: none;
+    gap: 60px;
+    text-decoration-line: none;
+    color: black;
+    font-weight: 100;
+}
